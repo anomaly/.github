@@ -1,3 +1,4 @@
+# Anomaly
 ![a sage meditating under a tree](hero.png)
 
 Anomaly is a group of software engineers and designers wh build solutions from first principles. We're based all around Australia with offices in [Wagga  Wagga](https://en.wikipedia.org/wiki/Wagga_Wagga) and [Adelaide](https://en.wikipedia.org/wiki/Adelaide). A decade ago we built [prestans](https://github.com/anomaly/prestans) a Python framework to build RESTful APIs. It featured forward thinking ideas like data validation, automatic documentation and partial response rendering (someone thought of it cool enough to add to [Wikipedia](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface), and we promise it wasn't us), which are now common practices in the industry. We've been building modern web applications before they were the cool thing do 😉 
