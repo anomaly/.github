@@ -8,10 +8,10 @@ Some years ago we built a [game for kids](https://www.anomaly.ltd/ventures/monst
 We're partners with [Stripe](https://www.anomaly.ltd/capabilities/stripe/) and [Linode](https://www.anomaly.ltd/capabilities/linode/) and have deep understanding of their offerings. As such we offer specialised professional services for customers to leverage their technology.
 
 Technologies of interest to us are:
-- 🐍 [Python](https://www.python.org), using frameworks like [SQLAlchemy](https://www.sqlalchemy.org), [FastAPI](https://fastapi.tiangolo.com), [Celery](https://docs.celeryq.dev/en/stable/getting-started/introduction.html)
+- 🐍 [Python](https://www.python.org), using frameworks like [SQLAlchemy](https://www.sqlalchemy.org), [FastAPI](https://fastapi.tiangolo.com), [TaskIQ](https://taskiq-python.github.io)
 - 📀 PostgreSQL, Redis as databases
 - 🌋 [Terraform](https://www.terraform.io) for infrastructure management
-- 🌀 React along with a set of chosen frameworks for building web clients
+- 🌀 React now primarily using [Remix](https://remix.run)
 - 🕸 [NextJS](https://nextjs.org) and [GatsbyJS](https://www.gatsbyjs.com) for building static front ends
 
 We prefer building mobile [apps for iOS](https://apps.apple.com/us/developer/anomaly-software-pty-ltd/id298807962), but happy to work with Android as well. 
