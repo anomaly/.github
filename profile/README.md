@@ -11,8 +11,8 @@ Technologies of interest to us are:
 - 🐍 [Python](https://www.python.org), using frameworks like [SQLAlchemy](https://www.sqlalchemy.org), [FastAPI](https://fastapi.tiangolo.com), [TaskIQ](https://taskiq-python.github.io)
 - 📀 PostgreSQL, Redis as databases
 - 🌋 [Terraform](https://www.terraform.io) for infrastructure management
-- 🌀 React now primarily using [Remix](https://remix.run)
-- 🕸 [NextJS](https://nextjs.org) and [GatsbyJS](https://www.gatsbyjs.com) for building static front ends
+- 🌀 React now primarily using [NextJS](https://nextjs.org)
+- 🕸 [NextJS](https://nextjs.org) and ~~[GatsbyJS](https://www.gatsbyjs.com)~~ for building static front ends
 
 We prefer building mobile [apps for iOS](https://apps.apple.com/us/developer/anomaly-software-pty-ltd/id298807962), but happy to work with Android as well. 
 
