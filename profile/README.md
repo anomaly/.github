@@ -1,4 +1,3 @@
-# Anomaly
 > In pursuit of empowering human endeavour through technology.
 
 ### We make
