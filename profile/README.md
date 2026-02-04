@@ -2,7 +2,7 @@
 
 ### We make
 
-- Banjara, an ephemeral point of sale for Stripe
+- Banjara, an ephemeral point of sale for [Stripe](https://www.stripe.com)
 - Lanyard, value adds for [Gallagher Security](https://security.gallagher.com/) products
 
 ### Open Source
